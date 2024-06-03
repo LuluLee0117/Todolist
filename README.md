@@ -1,5 +1,27 @@
 # todofrontend
 The sideproject about Todo List
+## Installation Environment
+1. Install the necessary NPM packages
+```
+npm install express mongoose cors
+```
+2. Installing MongoDB with the MongoDB Community Tap
+   Add the official Homebrew Tap for MongoDB:
+```
+brew tap mongodb/brew
+```
+3. Install MongoDB:
+```
+brew install mongodb-community
+```
+4. Start the MongoDB service:
+```
+brew services start mongodb/brew/mongodb-community
+```
+5. Verify that the installation was successful
+```
+mongosh
+```
 ## Project setup
 ```
 npm install
