@@ -1,5 +1,5 @@
 # todofrontend
-The side project about Todo List
+The sideproject about Todo List
 ## Project setup
 ```
 npm install
