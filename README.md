@@ -1,5 +1,5 @@
 # todofrontend
-
+The side project about Todo List
 ## Project setup
 ```
 npm install
@@ -39,6 +39,10 @@ npm run lint
 
 5. Account
 ![image](https://github.com/LuluLee0117/Todolist/assets/88627831/46bd8646-0b7f-4483-bec0-b56cc09b1ebb)
+
+6. Admin Page
+![image](https://github.com/LuluLee0117/Todolist/assets/88627831/4f893518-8fae-4305-a660-6662d1f0dce5)
+
 
 
 
